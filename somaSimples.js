@@ -25,7 +25,6 @@ var B = 10;
 // var B = 0;
 
 var SOMA;
-
 SOMA = (A + B);
 console.log("SOMA = " + SOMA);
 
