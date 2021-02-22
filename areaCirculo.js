@@ -12,7 +12,7 @@ a = pi*(r*r);
 console.log("A = " + a.toFixed(4));
 
 
-// Forma que fiz para exibir em um editor online e no console do navegador
+// Forma que fiz para exibir em um editor online e no console do navergador
 let r; 
 let pi = 3.14159;
 let a;
