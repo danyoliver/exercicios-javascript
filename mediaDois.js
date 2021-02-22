@@ -21,6 +21,7 @@ console.log("MÉDIA = " + MEDIA.toFixed(1));
 var notaA;
 var notaB;
 var notaC;
+
 var MEDIA;
 
 notaA = parseFloat(prompt("Digite a primeira nota: "));
